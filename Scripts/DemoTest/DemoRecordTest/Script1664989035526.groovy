@@ -35,5 +35,7 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Logout'))
 
 WebUI.acceptAlert()
 
+WebUI.delay(5)
+
 WebUI.closeBrowser()
 
